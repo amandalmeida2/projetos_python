@@ -2,8 +2,7 @@
 
 ## Projeto KNN
 ### Descrição do Projeto:
-Neste projeto, foi implementado o algoritmo K-Nearest Neighbors (KNN), um modelo supervisionado de machine learning que é amplamente utilizado tanto para tarefas de classificação quanto para regressão. O KNN é conhecido por sua simplicidade e interpretabilidade, sendo um dos modelos mais intuitivos e acessíveis para trabalhar com machine learning.
-Neste projeto, foi aplicado o KNN para classificar perfis de investidores com base em seus investimentos. Utilizou-se um conjunto de dados que inclui o CPF, o perfil de investidor e a carteira de investimentos. O objetivo é estimar o perfil de investidores que ainda não foram classificados, de modo a oferecer produtos mais adequados às suas necessidades.
+Neste projeto, foi implementado o algoritmo K-Nearest Neighbors (KNN), um modelo de machine learning amplamente usado tanto para classificação quanto para regressão. Aplicou-se o KNN para classificar perfis de investidores com base em seus investimentos, utilizando um conjunto de dados que inclui CPF, perfil de investidor e carteira de investimentos. O objetivo foi estimar os perfis de novos investidores, que  ainda não possuiam classificação, permitindo o oferecimento de produtos mais adequados às suas necessidades.
 
 ### Características do KNN
 **- Simples e Interpretável:** A lógica por trás do KNN é fácil de entender, o que facilita a interpretação dos resultados.<br></br>
